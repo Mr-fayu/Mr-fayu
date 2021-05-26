@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Wang
+- 👀 I’m very interested in open source
+- 🌱 I’m currently learning Vue.js
+- 💞️ I’m looking to collaborate on front end development and page making
+- 📫 How to reach me ?
+- 📫 Please send email to Mr_fayu@163.com Or Mr_fayu@qq.com
